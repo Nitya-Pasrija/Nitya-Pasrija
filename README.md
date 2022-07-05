@@ -1,7 +1,7 @@
 # **Heya, I am @Nitya-Pasrija**
 ### 💬 I discuss anime with a passion XD
 
-
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Nitya-Pasrija/badges)
 
 ## About me
 - 🎓 I'm a developer, and fresher at IGDTUW, IT.
