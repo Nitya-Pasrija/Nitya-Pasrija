@@ -1,15 +1,30 @@
-- 👋 Hi, I’m @Nitya-Pasrija
-- 👀 I’m interested in learning new things, especially designing :)
-- 🌱 I’m currently learning a lotta things XD
-- 💞️ I’m looking to collaborate on projects that help me grow <3 
-- 📫 How to reach me - at my email id: nitya055btit21@igdtuw.ac.in
+# **Heya, I am @Nitya-Pasrija**
+### 💬 I discuss anime with a passion XD
 
-<!---
-Nitya-Pasrija/Nitya-Pasrija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-<!----Languages and Tools
-<img src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png](https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e)" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
----->
+
+## About me
+- 🎓 I'm a developer, and fresher at IGDTUW, IT.
+- 💡 Interested in working alongside like minded people enthusiastic about various developer tools 
+- 💞️ Looking forward to collaborate on projects that make an impact <3
+- ⚡ Gonna start DSA soon 👀👀
+- ✉️ You can reach out to me at: nitya055btit21@igdtuw.ac.in
+
+## GITHUB STATS
+[![Nitya's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitya-Pasrija&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-Pasrija&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/Nitya-Pasrija)
+
+## Languages and Tools
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+
+## Social Media
+<img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
