@@ -27,5 +27,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## Social Media
-<img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nitya%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> https://twitter.com/NityaPasrija
+
+
+
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> www.linkedin.com/in/nitya-pasrija
