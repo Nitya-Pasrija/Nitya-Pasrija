@@ -1,5 +1,5 @@
 # **Heya, I am @Nitya-Pasrija**
-### 💬 I discuss anime with a passion XD
+### 💬 Music lyrics are magical chants :)
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Nitya-Pasrija/badges)
 
