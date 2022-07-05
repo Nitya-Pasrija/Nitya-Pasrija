@@ -12,7 +12,7 @@
 
 ## GITHUB STATS
 [![Nitya's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitya-Pasrija&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-Pasrija&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Nitya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-Pasrija&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Nitya-Pasrija)
 
@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ## Social Media
 <img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
