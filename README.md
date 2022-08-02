@@ -27,8 +27,6 @@
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-## Snake Eating Contributions XD
-![snake gif](https://github.com/Nitya-Pasrija/Nitya-Pasrija/blob/output/github-contribution-grid-snake.gif)
 
 ## Social Media
 <img src="https://img.shields.io/badge/Nitya%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> https://twitter.com/NityaPasrija
