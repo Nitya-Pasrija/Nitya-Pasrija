@@ -4,7 +4,7 @@
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Nitya-Pasrija/badges)
 
 ## About me
-- 🎓 I'm a developer, and fresher at IGDTUW, IT.
+- 🎓 I'm a developer, and sophomore at IGDTUW, IT.
 - 💡 Interested in working alongside like-minded people, enthusiastic about various developer tools 
 - 💞️ Looking forward to collaborate on projects that make an impact <3
 - ⚡ Gonna start DSA soon 👀👀 
