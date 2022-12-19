@@ -7,7 +7,7 @@
 - 🎓 I'm a developer, and sophomore at IGDTUW, IT.
 - 💡 Interested in working alongside like-minded people, enthusiastic about various developer tools 
 - 💞️ Looking forward to collaborate on projects that make an impact <3
-- ⚡ Gonna start DSA soon 👀👀 
+- ⚡ Crying over DSA 👀👀 
 - ✉️ You can reach out to me at: nitya055btit21@igdtuw.ac.in
 
 ## GITHUB STATS
