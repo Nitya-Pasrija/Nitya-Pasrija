@@ -33,8 +33,8 @@
   </a>
 </p>
 
-## GITHUB STATS  ![Profile views](https://gpvc.arturio.dev/Nitya-Pasrija)
-[![Nitya's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitya-Pasrija&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 
 
 
