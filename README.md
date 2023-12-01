@@ -8,7 +8,7 @@
 - 💡 Interested in working alongside like-minded people, enthusiastic about various developer tools 
 - 💞️ Looking forward to collaborating on projects that make an impact <3
 - ⚡ Crying over DSA (in Java)👀👀 
-- ✉️ You can reach out to me at: nitya055btit21@igdtuw.ac.in or on the following icons >.<
+- ✉️ You can reach out to me at: contact.pasrijanitya@gmail.com or on the following icons >.<
 
 <p align="center">
 
