@@ -4,10 +4,11 @@
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Nitya-Pasrija/badges)
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; ***About me***
-- 🎓 I'm a developer, and a junior at IGDTUW, IT.
-- 💡 Interested in working alongside like-minded people, enthusiastic about various developer tools 
+- 🎓 I'm a developer, and a senior at IGDTUW, IT. Yep, gonna graduate in 2025!
+- 💡 Interested in Cloud Computing, Data Analytics and JavaScript projects :)
 - 💞️ Looking forward to collaborating on projects that make an impact <3
-- ⚡ Crying over DSA (in Java)👀👀 
+- ⚡ Crying over DSA (in Java)👀👀
+- 💎 Distracted by a lotta FinTech projects XD
 - ✉️ You can reach out to me at: contact.pasrijanitya@gmail.com or on the following icons >.<
 
 <p align="center">
@@ -29,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java,flutter,dart,react,css,html,js,mysql,nodejs,postman,py,tailwind,firebase,mongodb&perline=9" />
+    <img src="https://skillicons.dev/icons?i=aws,git,github,cs,cpp,java,flutter,dart,npm,react,css,html,js,mysql,nodejs,nextjs,postman,py,ts,vite,tailwind,firebase,yarn,mongodb&perline=8" />
   </a>
 </p>
 
