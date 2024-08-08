@@ -12,18 +12,17 @@
 - ✉️ You can reach out to me at: contact.pasrijanitya@gmail.com or on the following icons >.<
 
 <p align="center">
-
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/nitya-pasrija/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+	</a>
+	<a style="margin-left: 10px;" target="_blank" href="https://x.com/NityaPasrija">
+		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" >
+	</a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Nitya-Pasrija">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19962964/nitya">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/NityaPasrija">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
-
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+	</a>
+ </div>
 </p>
 
 ## Languages and Tools
